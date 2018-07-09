@@ -1,0 +1,9 @@
+results/*
+data/*
+!data/*.py
+*/__pycache__/*
+eval_off.py
+train_off.py
+eval_image_classifier.py
+train_image_classifier.py
+test_read_ucf11.py

@@ -1,0 +1,4 @@
+data/UCF11/basketball/v_shooting_04/v_shooting_04_01.mpg
+data/UCF11/basketball/v_shooting_04/v_shooting_04_02.mpg
+data/UCF11/biking/v_biking_23/v_biking_23_04.mpg
+data/UCF11/walking/v_walk_dog_07/v_walk_dog_07_01.mpg
