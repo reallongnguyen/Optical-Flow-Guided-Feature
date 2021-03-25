@@ -89,7 +89,7 @@ python-debian==0.1.32
 pytz==2018.3
 pyvi==0.0.8.2
 pyxdg==0.25
-PyYAML==3.12
+PyYAML==5.4
 pyzmq==17.0.0
 qtconsole==4.3.1
 reportlab==3.4.0
