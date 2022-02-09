@@ -110,7 +110,7 @@ system-service==0.3
 systemd-python==234
 tabulate==0.8.2
 tensorboard==1.6.0
-tensorflow==1.6.0
+tensorflow==2.5.3
 tensorflow-gpu==1.6.0
 termcolor==1.1.0
 terminado==0.8.1
