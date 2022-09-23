@@ -71,7 +71,7 @@ Pillow==5.1.0
 plac==0.9.6
 preshed==1.0.0
 prompt-toolkit==1.0.15
-protobuf==3.5.2.post1
+protobuf==3.18.3
 ptyprocess==0.5.2
 pycairo==1.16.2
 pycrypto==2.6.1
